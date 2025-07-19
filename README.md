@@ -22,7 +22,7 @@ Hi there 👋, I'm Emanuele! I'm a passionate developer and student. I'm current
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=emacimino&show_icons=true&bg_color=0d1117&layout=compact&border_color=0d1117&icon_color=00d26a&title_color=00d26a&text_color=ffffff" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emacimino&layout=compact&langs_count=8&bg_color=0d1117&border_color=0d1117&icon_color=00d26a&title_color=00d26a&text_color=ffffff" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emacimino&layout=compact&langs_count=8&bg_color=0d1117&border_color=0d1117&icon_color=4ea8de&title_color=4ea8de&text_color=ffffff" />
 </a>
 
 Thank you for visiting my profile. Happy coding! 😊
