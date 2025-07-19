@@ -18,11 +18,13 @@ Hi there 👋, I'm Emanuele! I'm a passionate developer and student. I'm current
 
 ## 📊 Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=emacimino&show_icons=true&bg_color=0d1117&layout=compact&border_color=0d1117&icon_color=4ea8de&title_color=4ea8de&text_color=ffffff" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emacimino&layout=compact&langs_count=8&bg_color=0d1117&border_color=0d1117&icon_color=4ea8de&title_color=4ea8de&text_color=ffffff" />
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img style="margin-right: 20px;"  src="https://github-readme-stats.vercel.app/api?username=emacimino&show_icons=true&bg_color=f0f0f0&layout=compact&border_color=f0f0f0&icon_color=3498db&title_color=3498db&text_color=2c2c2c" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emacimino&layout=compact&langs_count=8&bg_color=f0f0f0&border_color=f0f0f0&icon_color=3498db&title_color=3498db&text_color=2c2c2c" />
+  </a>
+</p>
 
 Thank you for visiting my profile. Happy coding! 😊
